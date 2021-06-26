@@ -28,7 +28,7 @@
 2. Type `npm install`
 3. Make a new **.env** file at root folder project, set up [here](#set-up-env-file)
 4. Turn on Web Server
-5. Create a database with name `hospital_db`, then import hospital_db.sql file
+5. Create a database with name `hospital`, then import hospital.sql file
 6. Type `npm start` in CMD or Terminal
 7. Open Postman desktop application
 8. Choose HTTP Method and enter request url.(ex. http://127.0.0.1:3001/users)
