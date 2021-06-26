@@ -1,5 +1,3 @@
-# hospital-express
-
 <h1 align="center">ExpressJS - REST API for Hospital Vue</h1>
 
 ## Features
