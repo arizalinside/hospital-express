@@ -31,7 +31,7 @@
 5. Create a database with name `hospital_db`, then import hospital_db.sql file
 6. Type `npm start` in CMD or Terminal
 7. Open Postman desktop application
-8. Choose HTTP Method and enter request url.(ex. http://127.0.0.1:3001/patient)
+8. Choose HTTP Method and enter request url.(ex. http://127.0.0.1:3001/users)
 9. You can see all the end point [here](#postman-documentation)
 
 ## Set up .env file
